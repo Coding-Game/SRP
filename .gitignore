@@ -1,2 +1,8 @@
 
 *.sln
+Temp/*
+Library/*
+Logs/*
+obj/*
+Packages/*
+Assembly-CSharp-Editor.csproj
